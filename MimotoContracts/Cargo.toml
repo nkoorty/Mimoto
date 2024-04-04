@@ -21,3 +21,5 @@ lto = true
 [workspace.dependencies]
 soroban-sdk = "20.0.0-rc2"
 soroban-token-sdk = "20.0.0-rc2"
+zksnark = "0.1.0"
+sha256 = "0.9.0"
