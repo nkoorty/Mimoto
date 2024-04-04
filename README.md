@@ -1,6 +1,7 @@
-![Mimoto_SCF](https://github.com/nkoorty/Mimoto/assets/80065244/83d3db73-e848-49e5-93b3-7c1621f25fa6)
+![Mimoto26](https://github.com/nkoorty/Mimoto/assets/80065244/5c12675d-3ba1-4641-a4f4-ec77ee8ef588)
 # Mimoto
-Mimoto simplifies digital payments by seamlessly integrating with social media platforms like Discord and Twitter, allowing users to easily send and receive money through user-friendly, personalized links. Built on Stellar, and enhanced with Soroban smart contracts, Mimoto offers a straightforward solution for quick transactions without the complexity of traditional payment methods. This is particularly effective for micro-transactions and social media tipping, providing a hassle-free, secure alternative that's accessible even to those with minimal technical knowledge. With Mimoto, sending money is as simple as sharing a link, improvving the way we think about and execute digital payments in our everyday social interactions.
+Mimoto combines a Zero-Knowledge (ZK) proof Rust crate with a user-friendly payment platform to ensure privacy, security, and ease — both built on Soroban. The crate allows for secure validation of user data, ensuring privacy in transactions and is going to be open-sourced, enabling other Stellar/Soroban projects to incorporate KYC/AML-compliant, private data verification into their workflows. Users can upload and manage their credentials, creating ZK proofs that interface smoothly with Mimoto’s smart contracts, thereby maintaining confidentiality while adhering to compliance requirements.
+
 ## Repository Breakdown
 ### Smart Contracts
 Contains all Soroban smart contract code, including the logic for token transactions, user authorization, and other contract-based operations essential to Mimoto's functionality.
