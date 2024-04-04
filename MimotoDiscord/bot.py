@@ -56,4 +56,4 @@ async def checkuser(ctx, mention: str):
         await ctx.send(f"User {member.display_name} is not registered on Mimoto.")
 
 
-bot.run('MTE5NjE0NTI4MTUyMDEwNzYzMQ.GUkVxh._PDECRdXx_nftrBktqf7oljymLpsLTUR77N7fM') # noqa
+bot.run('MTE5NjE0NTI4MTUyMDEwNzYzMQ.GGsp2U.Sw3-cUEq_pXR_75a0GF_lzmPXxz1nEtaUn0h6c') # noqa
